@@ -5,7 +5,7 @@
   "main": "index.js",
   "preferGlobal": true,
   "bin": {
-    "kyo": "./bin/index.js",
+    "kscaf": "./bin/index.js",
     "node-scaffold": "./bin/index.js"
   },
   "scripts": {
